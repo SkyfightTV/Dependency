@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>Plugins</groupId>
-  <artifactId>Luckperms</artifactId>
+  <artifactId>LuckPerms</artifactId>
   <versioning>
-    <release>1.15.2</release>
+    <release>1.12.2</release>
     <versions>
       <version>1.15.2</version>
+      <version>1.12.2</version>
     </versions>
-    <lastUpdated>20200513121039</lastUpdated>
+    <lastUpdated>20201229192548</lastUpdated>
   </versioning>
 </metadata>
