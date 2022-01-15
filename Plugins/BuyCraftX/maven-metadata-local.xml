@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Plugins</groupId>
+  <artifactId>BuyCraftX</artifactId>
+  <versioning>
+    <release>1</release>
+    <versions>
+      <version>1</version>
+    </versions>
+    <lastUpdated>20220115122316</lastUpdated>
+  </versioning>
+</metadata>
