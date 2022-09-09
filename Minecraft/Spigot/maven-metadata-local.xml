@@ -3,10 +3,11 @@
   <groupId>Minecraft</groupId>
   <artifactId>Spigot</artifactId>
   <versioning>
-    <release>r1.18.2</release>
+    <release>ro1.18.2</release>
     <versions>
       <version>r1.18.2</version>
+      <version>ro1.18.2</version>
     </versions>
-    <lastUpdated>20220909212842</lastUpdated>
+    <lastUpdated>20220909215123</lastUpdated>
   </versioning>
 </metadata>
